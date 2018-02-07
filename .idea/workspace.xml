@@ -2,15 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e1bbc8fa-2d06-425c-8dc1-eaedd0d4cc5c" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/webapp/templates/about.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webapp/templates/contact.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webapp/templates/full-width.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webapp/templates/single.html" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/awesome_django_webapp/settings.py" afterPath="$PROJECT_DIR$/awesome_django_webapp/settings.py" />
-      <change beforePath="$PROJECT_DIR$/webapp/admin.py" afterPath="$PROJECT_DIR$/webapp/admin.py" />
-      <change beforePath="$PROJECT_DIR$/webapp/templates/index.html" afterPath="$PROJECT_DIR$/webapp/templates/index.html" />
-      <change beforePath="$PROJECT_DIR$/webapp/views.py" afterPath="$PROJECT_DIR$/webapp/views.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -394,7 +386,21 @@
       <option name="project" value="LOCAL" />
       <updated>1517984157332</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="实现博客文章数据动态获取">
+      <created>1517995800387</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1517995800387</updated>
+    </task>
+    <task id="LOCAL-00011" summary="静态文件整理">
+      <created>1517995862623</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1517995862623</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -432,7 +438,9 @@
     <MESSAGE value="修改数据库配置" />
     <MESSAGE value="创建ios app" />
     <MESSAGE value="创建models类，并且更新目录结构" />
-    <option name="LAST_COMMIT_MESSAGE" value="创建models类，并且更新目录结构" />
+    <MESSAGE value="实现博客文章数据动态获取" />
+    <MESSAGE value="静态文件整理" />
+    <option name="LAST_COMMIT_MESSAGE" value="静态文件整理" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
