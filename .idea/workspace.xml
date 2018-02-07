@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e1bbc8fa-2d06-425c-8dc1-eaedd0d4cc5c" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/shelf/Default.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ios/shenfeng123.py" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/ios/shenfeng123.py" afterPath="" />
     </list>
     <ignored path="$PROJECT_DIR$/.idea/shelf/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -147,21 +146,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="views.py" pinned="false" current-in-tab="false">
+      <file leaf-file-name="views.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/ios/views.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="51">
               <caret line="3" column="0" lean-forward="true" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="shenfeng123.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/ios/shenfeng123.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="10" column="0" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -415,7 +404,14 @@
       <option name="project" value="LOCAL" />
       <updated>1518001052627</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="create shenfeng123.py">
+      <created>1518019465344</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1518019465344</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TodoView">
@@ -465,7 +461,8 @@
     <MESSAGE value="创建models类，并且更新目录结构" />
     <MESSAGE value="实现博客文章数据动态获取" />
     <MESSAGE value="静态文件整理" />
-    <option name="LAST_COMMIT_MESSAGE" value="静态文件整理" />
+    <MESSAGE value="create shenfeng123.py" />
+    <option name="LAST_COMMIT_MESSAGE" value="create shenfeng123.py" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -863,8 +860,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/ios/shenfeng123.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="0" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+        <state relative-caret-position="204">
+          <caret line="12" column="0" lean-forward="true" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
           <folding />
         </state>
       </provider>
