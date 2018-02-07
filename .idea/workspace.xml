@@ -2,14 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e1bbc8fa-2d06-425c-8dc1-eaedd0d4cc5c" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/webapp/templates/index.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webapp/urls.py" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/7ce541bf-33af-4cda-b138-cb52f8450d7d.xml" afterPath="$PROJECT_DIR$/.idea/dataSources/7ce541bf-33af-4cda-b138-cb52f8450d7d.xml" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/awesome_django_webapp/settings.py" afterPath="$PROJECT_DIR$/awesome_django_webapp/settings.py" />
-      <change beforePath="$PROJECT_DIR$/awesome_django_webapp/urls.py" afterPath="$PROJECT_DIR$/awesome_django_webapp/urls.py" />
-      <change beforePath="$PROJECT_DIR$/webapp/models.py" afterPath="$PROJECT_DIR$/webapp/models.py" />
-      <change beforePath="$PROJECT_DIR$/webapp/views.py" afterPath="$PROJECT_DIR$/webapp/views.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -354,7 +347,21 @@
       <option name="project" value="LOCAL" />
       <updated>1517984108680</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="创建models类，并且更新目录结构">
+      <created>1517984120056</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1517984120056</updated>
+    </task>
+    <task id="LOCAL-00008" summary="创建models类，并且更新目录结构">
+      <created>1517984146022</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1517984146022</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="ToolWindowManager">
